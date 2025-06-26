@@ -61,7 +61,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr",HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
+#EXTINF:-1,TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 
@@ -110,9 +110,9 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 
-#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor (1080p)
+#EXTINF:-1,TRT Spor (1080p)
 http://185.234.111.229:8000/play/a00e
-#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
+#EXTINF:-1,TRT 1 (1080p)
 http://185.234.111.229:8000/play/a00c
 
 
