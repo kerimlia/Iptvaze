@@ -50,24 +50,36 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 
 
+#EXTINF:-1,Euro Star
+https://canlitvulusal.xyz/live/eurostar/index.m3u8
+#EXTINF:-1,STAR TV SD
+https://canlitvulusal.xyz/live/star/index.m3u8
+
+
 #EXTINF:-1,Star Tv
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1,Show Max
+https://canlitvulusal.xyz/live/showmax/index.m3u8
+#EXTINF:-1,Show Turk
+https://canlitvulusal.xyz/live/showturk/index.m3u8
 
 
 #EXTINF:-1,Show Tv
 https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
-#EXTINF:-1 tvg-id="EuroD.tr",Euro D (720p)
+#EXTINF:-1 tvg-id="EuroD.tr",Euro D 
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr",HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1,TRT 1 (1080p)
+#EXTINF:-1,TRT 1 
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1,TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1,Beyaz Tv
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
@@ -110,6 +122,12 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1,TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Cocuk 
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,TRT SpoR
 https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb
@@ -117,7 +135,7 @@ https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 #EXTINF:-1,A SPOR SD
-https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
 #EXTINF:-1 tvg-id="RUTV.ru",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
@@ -153,3 +171,7 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MatchArena.ru",Match! Arena
 http://194.143.148.28:8080/MatchArena/index.m3u8
+
+
+
+
