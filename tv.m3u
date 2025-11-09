@@ -43,8 +43,8 @@ https://str.yodacdn.net/idman/index.m3u8
 
 #EXTINF:-1,NoW Tv
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1,ATV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1,ATV Turkiye
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,ATV SD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
@@ -57,17 +57,17 @@ https://canlitvulusal.xyz/live/star/index.m3u8
 
 
 #EXTINF:-1,Star Tv
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1,Show Max
-https://canlitvulusal.xyz/live/showmax/index.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1,Show Turk
 https://canlitvulusal.xyz/live/showturk/index.m3u8
 
 
 #EXTINF:-1,Show Tv
-https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8
+http://66.160.192.241/showtv/index.m3u8
 #EXTINF:-1,Kanal D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 tvg-id="EuroD.tr",Euro D 
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr",HTSpor TV (1080p)
@@ -77,6 +77,8 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
+#EXTINF:0,TV 8.5 FHD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 
 #EXTINF:-1,Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -138,7 +140,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1,Беларусь 5 Интернет HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
-#
+#EXTINF:-1,Turkmen Sport [SD]
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-id="RUTV.ru",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
