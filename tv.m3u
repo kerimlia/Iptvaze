@@ -142,7 +142,23 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
 #EXTINF:-1,Turkmen Sport [SD]
 http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Mir.ru@SD",Мир 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="FridayInternational.ru@SD",Пятница! Int
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
+#EXTINF:-1 tvg-id="RBKTV.ru@SD",РБК (560p)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="TNT4International.ru@SD",ТНТ4 Int
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru@SD",ТНТ Int
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 tvg-id="PeretzInternational.ru@SD",Перец Int
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 tvg-id="DomashniyInternational.ru@SD",Домашний Int
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD",РЕН ТВ Int
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="RUTV.ru",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
@@ -154,14 +170,10 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="Friday.ru",Friday!
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
-#EXTINF:-1 tvg-id="TNT.ru",TNT
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 tvg-id="TV3.ru",TV-3
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:-1 tvg-id="TNT4.ru",TNT4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru",Subbota!
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+http://hls2.hd-tv.club/2_super/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru",Muz-TV
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1 tvg-id="STSLove.ru",STS Love
@@ -179,6 +191,96 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MatchArena.ru",Match! Arena
 http://194.143.148.28:8080/MatchArena/index.m3u8
 
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD",MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CarouselInternational.ru@SD",Карусель International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="A1.ru@SD",Amedia 1
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 tvg-id="A2.ru@SD",Amedia 2
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru@SD",Ani
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGE.ru@SD",BRIDGE
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@SD",BRIDGE Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru@SD",BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-id="FoodTime.ru@SD",FoodTime
+http://31.148.48.15/Eda_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="HDL.ru@SD",HDL
+http://31.148.48.15/HD_Life/index.m3u8
+#EXTINF:-1 tvg-id="STSkids.ru@SD",STS kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD",Авто Плюс
+http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru@SD",Время
+http://31.148.48.15/Vremya/index.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@SD",Дом Кино Премиум HD
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="Evrokino.ru@SD",Еврокино
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD",Живая Планета
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 tvg-id="Zhivi.ru@SD",ЖИВИ!
+http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:-1 tvg-id="ZooTV.ru@SD",Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru@SD",Иллюзион+
+http://31.148.48.15/Illusion_plus/index.m3u8
+#EXTINF:-1 tvg-id="India.ru@SD",Индия
+http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru@SD",История
+http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@HD",Карусель
+http://31.148.48.15/Karusel_HD/index.m3u8
+#EXTINF:-1 tvg-id="KVNTV.ru@SD",КВН ТВ
+http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru@SD",Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru@SD",Кухня ТВ
+http://31.148.48.15/Kuhnya_TV/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru@HD",Матч! Страна
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD",Музыка Первого
+http://31.148.48.15/Muzika_Pervogo/index.m3u8
+#EXTINF:-1 tvg-id="o2tv.ru@SD",о2тв
+http://31.148.48.15/O2_HD/index.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru@SD",Поехали!
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD",Русский Бестселлер
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD",Русский роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru@SD",Рыжий
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru@SD",СТС Love
+http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1 tvg-id="Teatr.ru@SD",Театр
+http://31.148.48.15/Sochi_HD/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD",Телекафе
+http://31.148.48.15/Telekafe/index.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD",Телепутешествия
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-id="Unikum.ru@SD",Уникум
+http://31.148.48.15/Detskiy/index.m3u8
+#EXTINF:-1 tvg-id="FeniksplusKino.ru@SD",Феникс плюс Кино
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 tvg-id="Football.ru@SD",Футбол
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 tvg-id="Che.ru@SD",Че!
+http://31.148.48.15/Che/index.m3u8
